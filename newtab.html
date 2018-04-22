@@ -1,0 +1,18 @@
+<html >
+<title>New Tab</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<script type="text/javascript" src="scripts/angular.min.js"></script>
+<script type="text/javascript" src="scripts/quotes.js"></script>
+<body ng-app='quotes' ng-controller='quoteController' >
+
+<div id="content">
+<div id="quote">
+	{{quote}}
+</div>
+<div id="name">
+<span ng-if='name'>{{name}}</span>
+</div>
+</div>
+</body>
+</html>

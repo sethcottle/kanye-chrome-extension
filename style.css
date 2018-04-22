@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'LifeOfPablo';
+	src: url('font/LifeOfPablo.ttf') format('truetype'), /* Safari, Android, iOS */
+	url('font/LifeOfPablo.eot'), /* IE9 Compat Modes */
+	url('font/LifeOfPablo.svg') format('svg'); /* Legacy iOS */
+}
+
+body{
+
+	margin: 64;
+	background-color: #7d0729
+}
+div#content{
+margin: 24;
+
+padding: 24
+}
+div#quote{
+
+	font-size: 64;
+	font-family: 'LifeOfPablo', Fallback, serif;
+	text-align: center;
+	color: #f06558;
+	margin:80
+}
+div#name{
+	font-size: 18;
+	font-style: regular;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color: #f06558
+}
