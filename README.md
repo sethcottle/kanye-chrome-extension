@@ -1,4 +1,4 @@
-# ultralight beam
+# Ultralight Beam
 Some next-level shit inspired by Kanye West's Tweets. Get your dose of wisdom from Kanye in every New Tab in Chrome.
 
 ![kanye](https://media.giphy.com/media/3pDwzu7sYmF4k/giphy.gif)
@@ -12,4 +12,4 @@ Some next-level shit inspired by Kanye West's Tweets. Get your dose of wisdom fr
 
 You can also download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/wisdom-from-kanye/dbahdcnbbleloehclkcdmkgfioglbkmc).
 
-Thanks to [Casey Cavanagh](https://github.com/caseycavanagh) for [the idea](https://twitter.com/caseycavanagh/status/986934608590790657). 👋
+A small project from [Seth](https://twitter.com/sethcottle) & [Casey](https://twitter.com/caseycavanagh). 👋
