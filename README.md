@@ -1,5 +1,7 @@
-# Wisdom From Kanye
-Here's a simple extension that cycles through quotes from Kanye's Twitter feed.
+# ultralight beam
+Some next-level shit inspired by Kanye West's Tweets. Get your dose of wisdom from Kanye in every New Tab in Chrome.
+
+![kanye](https://media.giphy.com/media/3pDwzu7sYmF4k/giphy.gif)
 
 ## Installing Locally
 
