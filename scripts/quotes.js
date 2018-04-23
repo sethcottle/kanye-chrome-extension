@@ -2,7 +2,21 @@ var app=angular.module('quotes',[]);
 app.controller('quoteController',function($scope)
 {
 	var quotes=[
-	['question everything','Kanye West | April 21, 2018',],
+	['practice pure love','Kanye West | April 22, 2018',],
+	['It’s no more baring people because they have different ideas.','Kanye West | April 22, 2018',],
+	['I feel calm but energized','Kanye West | April 22, 2018',],
+	['self victimization is a disease','Kanye West | April 22, 2018',],
+	['there was a time when slavery was the trend and apparently that time is still upon us . But now it\'s a mentality .','Kanye West | April 22, 2018',],
+	['People respect people for following the general  trend and consensus','Kanye West | April 22, 2018',],
+	['We live in a time where people don’t respect people for being themselves','Kanye West | April 22, 2018',],
+	['Constantly bringing up the past keeps you stuck there','Kanye West | April 22, 2018',],
+	['The thought police want to suppress freedom of thought','Kanye West | April 22, 2018',],
+	['we have freedom of speech but not freedom of thought','Kanye West | April 22, 2018',],
+	['People demonize people and then they demonize anybody who sees anything positive in someone whose been demonized','Kanye West | April 22, 2018',],
+	['The psychological zombie effect','Kanye West | April 22, 2018',],
+	['Demonization has metastasized','Kanye West | April 22, 2018',],
+	['the blinders are off','Kanye West | April 22, 2018',],
+	['question everything','Kanye West | April 22, 2018',],
 	['The more people contribute to real time global consciousness the faster we evolve','Kanye West | April 21, 2018',],
 	['get past the past','Kanye West | April 21, 2018',],
 	['be fearless . Express what you feel not what you\'ve been programmed to think .','Kanye West | April 21, 2018',],
