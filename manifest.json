@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Wisdom From Kanye",
-  "version": "0.5",
+  "version": "0.6",
   "background": {
     "scripts": ["background.js"]
   },
